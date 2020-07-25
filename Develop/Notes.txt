@@ -1,0 +1,22 @@
+Changed the footer div =class to the semantic "footer" and updated the CSS file to correct it not being a class anymore. 
+
+Changed the header from div to semantic and updated CSS
+
+Changed div that was inside of the header to a nav
+
+Changed the div class "benefits" to an aside semantic
+
+Changed the title in head to the company name instead of "Website"
+
+Fixed the broken "search engine optimization link"
+
+Changed all of the classes to be the same for the section and aside portion. This allowed me to clean up the code in the CSS file.
+
+Moved index file out of the develop folder and updated the CSS link and image links
+
+Added comments for the sections
+
+Added alt tags for images
+
+Updated the Footer content 
+
