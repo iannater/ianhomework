@@ -27,7 +27,19 @@ For this assignment we needed to download a directory that had an HTML, CSS, and
 
 * Updated the Footer content 
 
+* Added main tag and then changed all divs to sections within it. 
+
 ```
 
 ##  Testing Performed
+
+### Locally
+    + Loaded website in default browser. 
+    + Checked each linked worked in the nav bar and brought you to the correct section.
+    + Reviewed HTML code and CSS code to be sure it was clean. 
+### Post Git Upload
+    + Loaded website via the pages link.
+    + Checked each linked worked in the nav bar and brought you to the correct section.
+    + Reviewed HTML code and CSS code to be sure it was clean. 
+    + Review readme file to be sure it loaded correctly.     
 
